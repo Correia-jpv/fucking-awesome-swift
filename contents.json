@@ -8553,6 +8553,12 @@
       "description": "Codable extensions using Swift macro.",
       "homepage": "https://github.com/reers/ReerCodable",
       "tags":["swift", "codable"]
+    },
+    {
+      "title":"SwiftUIRoutes",
+      "category":"app-routing",
+      "description":"A minimal and flexible router for SwiftUI apps.",
+      "homepage":"https://github.com/gabriel/swiftui-routes"
     }
   ]
 }
